@@ -9,11 +9,9 @@ Textos limpos;
 
 Remover textos anteriores(Opção opcional);
 
-Placar on-line de acertos; 
+Limite de tentativas(Opção opcional);
 
-Placar on-line de erros; Placar Local de acertos; 
-
-Placar Local de erros; 
+Adicionar o limite do numero correto(Opção opcional)
 
 # Instalação
 Faça o download do arquivo "Project.java" e execute-o no programa desejado,você também pode fazer isso pelo celular usando o Java N-IDE.
