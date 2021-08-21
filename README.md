@@ -1,6 +1,6 @@
-# -GAME-Acerte-o-numero.
+# GAME-Acerte-o-numero.
 
-Um jogo simples feito em Java,ele consiste em você acertar o numero mais não é tão fácil.Espero que gostem.
+Um jogo simples feito em Java,ele consiste em você acertar o numero mais não é tão fácil quanto parece.Espero que gostem.
 
 # Novas atualizações incluirão: 
 Novas dificuldades; 
