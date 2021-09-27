@@ -17,7 +17,6 @@ Adicionar o limite do numero correto(Opção opcional)
 Faça o download do arquivo "Project.java" e execute-o no programa desejado,você também pode fazer isso pelo celular usando o Java N-IDE.
 
 # Redes sociais
-Whatsapp: +5591991174238
 
 Discord: Cristiano JFC#6580
 
